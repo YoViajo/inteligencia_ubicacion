@@ -1,0 +1,12 @@
+# Búsqueda de la palabra "Farmacorp" (ignorando mayúsculas y minúsculas) para la ciudad de Santa Cruz, Bolivia. Se toma un punto central y la ciudad y se busca 10 Km a la redonda
+# Consulta OverPass Turbo (https://overpass-turbo.eu/):
+
+[out:json][timeout:25];
+(
+  node["name"~"Farmacorp", i](around:10000,-17.7964,-63.1833);
+  way["name"~"Farmacorp", i](around:10000,-17.7964,-63.1833);
+  relation["name"~"Farmacorp", i](around:10000,-17.7964,-63.1833);
+);
+out body;
+>;
+out skel qt;

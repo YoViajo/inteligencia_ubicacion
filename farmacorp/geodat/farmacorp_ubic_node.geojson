@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-21T15:11:19Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/889524294",
+        "addr:country": "BO",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "operator": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1824589,
+          -17.8143953
+        ]
+      },
+      "id": "node/889524294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/891944582",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:country": "BO",
+        "addr:street": "Avenida Irala",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1844923,
+          -17.7927779
+        ]
+      },
+      "id": "node/891944582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/893273768",
+        "addr:country": "BO",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.179019,
+          -17.7943391
+        ]
+      },
+      "id": "node/893273768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1173196922",
+        "amenity": "pharmacy",
+        "branch": "IC Norte",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2031465,
+          -17.7730203
+        ]
+      },
+      "id": "node/1173196922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3937878439",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2039532,
+          -17.807683
+        ]
+      },
+      "id": "node/3937878439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4102447889",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Tercer Anillo Externo",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "opening_hours": "24/7",
+        "source": "Geoinquietos SC",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1549752,
+          -17.7699019
+        ]
+      },
+      "id": "node/4102447889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4105064063",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Geoinquientos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1729398,
+          -17.7796231
+        ]
+      },
+      "id": "node/4105064063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115267211",
+        "addr:street": "Avenida Grigotá",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1959595,
+          -17.8014059
+        ]
+      },
+      "id": "node/4115267211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127139880",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1764994,
+          -17.7504011
+        ]
+      },
+      "id": "node/4127139880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4141817552",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "operator": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2156443,
+          -17.7495996
+        ]
+      },
+      "id": "node/4141817552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173046089",
+        "amenity": "pharmacy",
+        "name": "farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2180686,
+          -17.8203037
+        ]
+      },
+      "id": "node/4173046089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244551630",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Quinto Anillo",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacorp",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2063132,
+          -17.8245158
+        ]
+      },
+      "id": "node/4244551630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377939223",
+        "amenity": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1421141,
+          -17.777393
+        ]
+      },
+      "id": "node/4377939223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4378093030",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1653808,
+          -17.778185
+        ]
+      },
+      "id": "node/4378093030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390158731",
+        "amenity": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2208264,
+          -17.7992929
+        ]
+      },
+      "id": "node/4390158731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394223717",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1859829,
+          -17.8334614
+        ]
+      },
+      "id": "node/4394223717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4399076834",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "operator": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1351647,
+          -17.8021218
+        ]
+      },
+      "id": "node/4399076834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4604628192",
+        "addr:street": "Avenida Paurito",
+        "amenity": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1446212,
+          -17.8226944
+        ]
+      },
+      "id": "node/4604628192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509397783",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.150444,
+          -17.8006117
+        ]
+      },
+      "id": "node/5509397783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6314781241",
+        "amenity": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1687771,
+          -17.7323921
+        ]
+      },
+      "id": "node/6314781241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831012626",
+        "addr:street": "Avenida Primero de Mayo",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "operator": "Farmacorp S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1347643,
+          -17.7968419
+        ]
+      },
+      "id": "node/6831012626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298738417",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Cuarto Anillo",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1486884,
+          -17.7660701
+        ]
+      },
+      "id": "node/8298738417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11176140600",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Avenida Virgen de Cotoca",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1633867,
+          -17.7824619
+        ]
+      },
+      "id": "node/11176140600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11432409209",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1993549,
+          -17.7588859
+        ]
+      },
+      "id": "node/11432409209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11872540069",
+        "addr:street": "Avenida Juan Pablo II",
+        "amenity": "pharmacy",
+        "name": "Farmacorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1796499,
+          -17.7378171
+        ]
+      },
+      "id": "node/11872540069"
+    }
+  ]
+}

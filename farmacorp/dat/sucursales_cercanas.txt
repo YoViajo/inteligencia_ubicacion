@@ -1,0 +1,12 @@
+SC- Sucursal Las Palmas
+SC- Sucursal Abasto
+SC- Sucursal Pirai 3er anillo externo
+SC- Sucursal Comercial Indana
+SC- Sucursal Radial 17 1/2 4to Anillo
+SC- Sucursal Radial 17 1/2 5to Anillo
+SC- Sucursal Pirai 2do Anillo
+SC- Sucursal Grigota Esq. Barrientos
+SC- Sucursal Biopetrol Roca y Coronado
+SC- Sucursal Pirai entre 6to y 7mo Anillo
+SC- Sucursal Doble Via la Guardia 8vo Anillo
+SC- Proxi Escuadron Velasco

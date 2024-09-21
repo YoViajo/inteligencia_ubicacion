@@ -1,0 +1,1069 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-21T15:13:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210991390",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1870439,
+              -17.8016208
+            ],
+            [
+              -63.1869238,
+              -17.8016207
+            ],
+            [
+              -63.186924,
+              -17.8014093
+            ],
+            [
+              -63.1870031,
+              -17.8014093
+            ],
+            [
+              -63.1870299,
+              -17.8013863
+            ],
+            [
+              -63.1870708,
+              -17.8014323
+            ],
+            [
+              -63.1870447,
+              -17.8014527
+            ],
+            [
+              -63.1870439,
+              -17.8016208
+            ]
+          ]
+        ]
+      },
+      "id": "way/210991390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404396100",
+        "addr:street": "Avenida Cristo Redentor",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1758381,
+              -17.7521603
+            ],
+            [
+              -63.1758099,
+              -17.7522293
+            ],
+            [
+              -63.1757133,
+              -17.7522651
+            ],
+            [
+              -63.1756919,
+              -17.7522076
+            ],
+            [
+              -63.1758381,
+              -17.7521603
+            ]
+          ]
+        ]
+      },
+      "id": "way/404396100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408850284",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacorp",
+        "phone": "33555555",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "website": "https://www.farmacorp.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1653239,
+              -17.7253974
+            ],
+            [
+              -63.1652131,
+              -17.7254386
+            ],
+            [
+              -63.1651839,
+              -17.7253674
+            ],
+            [
+              -63.1652948,
+              -17.7253262
+            ],
+            [
+              -63.1653239,
+              -17.7253974
+            ]
+          ]
+        ]
+      },
+      "id": "way/408850284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410428905",
+        "addr:street": "Avenida Beni",
+        "building": "commercial",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1695978,
+              -17.7499777
+            ],
+            [
+              -63.1695598,
+              -17.7502358
+            ],
+            [
+              -63.1694698,
+              -17.750181
+            ],
+            [
+              -63.1694434,
+              -17.7502192
+            ],
+            [
+              -63.1693814,
+              -17.7501761
+            ],
+            [
+              -63.1694093,
+              -17.7501369
+            ],
+            [
+              -63.169331,
+              -17.750082
+            ],
+            [
+              -63.1695978,
+              -17.7499777
+            ]
+          ]
+        ]
+      },
+      "id": "way/410428905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440061739",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Avenida Cristóbal de Mendoza",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "layer": "1",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.170945,
+              -17.7707345
+            ],
+            [
+              -63.1708784,
+              -17.7706587
+            ],
+            [
+              -63.1709409,
+              -17.770609
+            ],
+            [
+              -63.1709623,
+              -17.7706334
+            ],
+            [
+              -63.1709831,
+              -17.7706169
+            ],
+            [
+              -63.1710078,
+              -17.7706451
+            ],
+            [
+              -63.1710826,
+              -17.7705855
+            ],
+            [
+              -63.1711346,
+              -17.7706448
+            ],
+            [
+              -63.1711026,
+              -17.7706703
+            ],
+            [
+              -63.1710307,
+              -17.7707276
+            ],
+            [
+              -63.1710219,
+              -17.7707346
+            ],
+            [
+              -63.1709903,
+              -17.7706985
+            ],
+            [
+              -63.170945,
+              -17.7707345
+            ]
+          ]
+        ]
+      },
+      "id": "way/440061739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440082733",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1949734,
+              -17.7904935
+            ],
+            [
+              -63.1949379,
+              -17.7906678
+            ],
+            [
+              -63.1949243,
+              -17.7907318
+            ],
+            [
+              -63.1947722,
+              -17.7907044
+            ],
+            [
+              -63.1947983,
+              -17.7905593
+            ],
+            [
+              -63.1948202,
+              -17.7905252
+            ],
+            [
+              -63.1948628,
+              -17.7904898
+            ],
+            [
+              -63.1949108,
+              -17.7904802
+            ],
+            [
+              -63.1949734,
+              -17.7904935
+            ]
+          ]
+        ]
+      },
+      "id": "way/440082733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440089739",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1346585,
+              -17.7754115
+            ],
+            [
+              -63.1344936,
+              -17.7753529
+            ],
+            [
+              -63.1345584,
+              -17.7751875
+            ],
+            [
+              -63.1346856,
+              -17.7752327
+            ],
+            [
+              -63.1347078,
+              -17.7752856
+            ],
+            [
+              -63.1346585,
+              -17.7754115
+            ]
+          ]
+        ]
+      },
+      "id": "way/440089739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440249859",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1811609,
+              -17.7641677
+            ],
+            [
+              -63.1811523,
+              -17.7640828
+            ],
+            [
+              -63.1811389,
+              -17.764033
+            ],
+            [
+              -63.1811241,
+              -17.764033
+            ],
+            [
+              -63.181112,
+              -17.7640177
+            ],
+            [
+              -63.1811174,
+              -17.7639973
+            ],
+            [
+              -63.1811362,
+              -17.7639871
+            ],
+            [
+              -63.181155,
+              -17.7639807
+            ],
+            [
+              -63.1811709,
+              -17.763987
+            ],
+            [
+              -63.181183,
+              -17.7639946
+            ],
+            [
+              -63.1812078,
+              -17.7639972
+            ],
+            [
+              -63.1812125,
+              -17.7640425
+            ],
+            [
+              -63.1812293,
+              -17.7640419
+            ],
+            [
+              -63.181236,
+              -17.7641019
+            ],
+            [
+              -63.1812246,
+              -17.7641038
+            ],
+            [
+              -63.1812277,
+              -17.7641479
+            ],
+            [
+              -63.1812286,
+              -17.7641613
+            ],
+            [
+              -63.1811609,
+              -17.7641677
+            ]
+          ]
+        ]
+      },
+      "id": "way/440249859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440394113",
+        "addr:street": "Tercer Anillo Interno",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1976975,
+              -17.8060586
+            ],
+            [
+              -63.1977445,
+              -17.8060063
+            ],
+            [
+              -63.1978859,
+              -17.8061215
+            ],
+            [
+              -63.197839,
+              -17.8061738
+            ],
+            [
+              -63.1976975,
+              -17.8060586
+            ]
+          ]
+        ]
+      },
+      "id": "way/440394113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441230572",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.2043246,
+              -17.7855261
+            ],
+            [
+              -63.2043065,
+              -17.7856905
+            ],
+            [
+              -63.2041628,
+              -17.7856762
+            ],
+            [
+              -63.2041809,
+              -17.7855118
+            ],
+            [
+              -63.2043246,
+              -17.7855261
+            ]
+          ]
+        ]
+      },
+      "id": "way/441230572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441302309",
+        "addr:street": "Tercer Anillo Interno",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.2046901,
+              -17.7907342
+            ],
+            [
+              -63.2044982,
+              -17.7906731
+            ],
+            [
+              -63.204549,
+              -17.7905285
+            ],
+            [
+              -63.2046822,
+              -17.7905709
+            ],
+            [
+              -63.2047037,
+              -17.7906023
+            ],
+            [
+              -63.2046901,
+              -17.7907342
+            ]
+          ]
+        ]
+      },
+      "id": "way/441302309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441488583",
+        "addr:street": "Cuarto Anillo",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "building:levels": "2",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1636401,
+              -17.752333
+            ],
+            [
+              -63.1636643,
+              -17.7523355
+            ],
+            [
+              -63.1636884,
+              -17.7523432
+            ],
+            [
+              -63.1637219,
+              -17.7523585
+            ],
+            [
+              -63.1637548,
+              -17.7523777
+            ],
+            [
+              -63.1637762,
+              -17.7523911
+            ],
+            [
+              -63.1638004,
+              -17.7524179
+            ],
+            [
+              -63.1636227,
+              -17.7524837
+            ],
+            [
+              -63.1635985,
+              -17.7524473
+            ],
+            [
+              -63.1636401,
+              -17.752333
+            ]
+          ]
+        ]
+      },
+      "id": "way/441488583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441505923",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1837978,
+              -17.7829822
+            ],
+            [
+              -63.1837991,
+              -17.7829687
+            ],
+            [
+              -63.18384,
+              -17.7829346
+            ],
+            [
+              -63.1839047,
+              -17.7829386
+            ],
+            [
+              -63.1839012,
+              -17.7829891
+            ],
+            [
+              -63.1837978,
+              -17.7829822
+            ]
+          ]
+        ]
+      },
+      "id": "way/441505923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441509728",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1967553,
+              -17.7544979
+            ],
+            [
+              -63.1966911,
+              -17.7546138
+            ],
+            [
+              -63.1964956,
+              -17.7545157
+            ],
+            [
+              -63.1965598,
+              -17.7543997
+            ],
+            [
+              -63.1967553,
+              -17.7544979
+            ]
+          ]
+        ]
+      },
+      "id": "way/441509728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441648105",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Avenida Irala",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1798247,
+              -17.7923991
+            ],
+            [
+              -63.1799216,
+              -17.7924137
+            ],
+            [
+              -63.1799109,
+              -17.7924782
+            ],
+            [
+              -63.1798142,
+              -17.7924635
+            ],
+            [
+              -63.1798247,
+              -17.7923991
+            ]
+          ]
+        ]
+      },
+      "id": "way/441648105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441661380",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1737221,
+              -17.7913426
+            ],
+            [
+              -63.1736917,
+              -17.7914578
+            ],
+            [
+              -63.1736774,
+              -17.791494
+            ],
+            [
+              -63.173651,
+              -17.7915936
+            ],
+            [
+              -63.1736024,
+              -17.7915813
+            ],
+            [
+              -63.1735537,
+              -17.7915338
+            ],
+            [
+              -63.173524,
+              -17.7914219
+            ],
+            [
+              -63.1736012,
+              -17.7913485
+            ],
+            [
+              -63.1736736,
+              -17.7913304
+            ],
+            [
+              -63.1737221,
+              -17.7913426
+            ]
+          ]
+        ]
+      },
+      "id": "way/441661380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441679037",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "opening_hours": "PH,Mo-Su 07:00-23:00",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1723558,
+              -17.784299
+            ],
+            [
+              -63.1722048,
+              -17.7842838
+            ],
+            [
+              -63.1722203,
+              -17.7841444
+            ],
+            [
+              -63.1723713,
+              -17.7841596
+            ],
+            [
+              -63.1723558,
+              -17.784299
+            ]
+          ]
+        ]
+      },
+      "id": "way/441679037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441711167",
+        "addr:street": "Avenida Grigotá",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1968944,
+              -17.801257
+            ],
+            [
+              -63.1970137,
+              -17.8013501
+            ],
+            [
+              -63.1969908,
+              -17.8013742
+            ],
+            [
+              -63.1970291,
+              -17.801407
+            ],
+            [
+              -63.1969361,
+              -17.8015059
+            ],
+            [
+              -63.1968386,
+              -17.8014189
+            ],
+            [
+              -63.1968247,
+              -17.8013936
+            ],
+            [
+              -63.1968309,
+              -17.8013657
+            ],
+            [
+              -63.1968944,
+              -17.801257
+            ]
+          ]
+        ]
+      },
+      "id": "way/441711167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442131033",
+        "addr:street": "Avenida Irala",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico por KG 2016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.182079,
+              -17.7923433
+            ],
+            [
+              -63.182061,
+              -17.7924382
+            ],
+            [
+              -63.1819395,
+              -17.7924172
+            ],
+            [
+              -63.1819527,
+              -17.7923502
+            ],
+            [
+              -63.1819575,
+              -17.7923224
+            ],
+            [
+              -63.182079,
+              -17.7923433
+            ]
+          ]
+        ]
+      },
+      "id": "way/442131033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442473294",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1956851,
+              -17.7655027
+            ],
+            [
+              -63.1955911,
+              -17.7656452
+            ],
+            [
+              -63.1954291,
+              -17.7655483
+            ],
+            [
+              -63.1954783,
+              -17.7654737
+            ],
+            [
+              -63.1955149,
+              -17.7654956
+            ],
+            [
+              -63.1955597,
+              -17.7654276
+            ],
+            [
+              -63.1956851,
+              -17.7655027
+            ]
+          ]
+        ]
+      },
+      "id": "way/442473294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442488248",
+        "amenity": "pharmacy",
+        "brand": "Farmacorp",
+        "brand:wikidata": "Q81968937",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacorp",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.1920306,
+              -17.7733453
+            ],
+            [
+              -63.1920221,
+              -17.7732144
+            ],
+            [
+              -63.1921648,
+              -17.773349
+            ],
+            [
+              -63.1920306,
+              -17.7733453
+            ]
+          ]
+        ]
+      },
+      "id": "way/442488248"
+    }
+  ]
+}
