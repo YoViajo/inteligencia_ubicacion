@@ -1,0 +1,7 @@
+# APLICACIÓN SHINY
+
+# Navegar a la carpeta de la aplicación Shiny:
+setwd("C:/Users/yoviajo/Documents/GitHub/inteligencia_ubicacion/farmacorp/shiny")
+
+# Ejecutar la aplicación Shiny:
+shiny::runApp()
