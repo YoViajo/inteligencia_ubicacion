@@ -10,3 +10,9 @@
 out body;
 >;
 out skel qt;
+
+
+
+Aplicación Shiny publicada
+sucursales_farmacorp_santa_cruz_sc_bolivia
+https://posit.cloud/content/8805127
